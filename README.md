@@ -286,3 +286,27 @@ Nassau_Candy_Route_Efficiency_Analysis/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+<<<<<<< HEAD
+=======
+
+---
+
+## 📊 Visualizations
+
+### Factory-wise Shipment Delay Rate
+![Factory-wise Shipment Delay Rate](outputs/factory_delay_rate.png)
+
+### Region-wise Shipment Delay Rate
+![Region-wise Shipment Delay Rate](outputs/region_delay_rate.png)
+
+### Ship Mode-wise Shipment Delay Rate
+![Ship Mode-wise Shipment Delay Rate](outputs/ship_mode_delay_rate.png)
+
+### Top 10 High-Risk Routes
+![Top 10 High-Risk Routes](outputs/top_high_risk_routes.png)
+
+### Top 10 Products by Delay Rate
+![Top 10 Products by Delay Rate](outputs/top_products_delay_rate.png)
+
+---
+>>>>>>> 9594d90 (Add visualization previews to README)
