@@ -15,6 +15,15 @@ The analysis combines Python-based data processing with statistical analysis and
 
 ---
 
+## 🔗 Project Links
+
+- 📁 [GitHub Repository](https://github.com/yashikagupta2501/Nassau-Candy-Route-Efficiency-Analysis)
+- 🌐 [Live Streamlit Dashboard](https://nassau-candy-route-efficiency-analysis.streamlit.app/)
+- 📄 [Project Report](https://github.com/yashikagupta2501/Nassau-Candy-Route-Efficiency-Analysis/blob/main/reports/Nassau_Candy_Route_Analysis_Report.md)
+- 📊 [Project Presentation](https://github.com/yashikagupta2501/Nassau-Candy-Route-Efficiency-Analysis/blob/main/presentation/Nassau_Candy_Route_Efficiency_Analysis_Presentation.pptx)
+
+---
+
 ## 🎯 Business Problem
 
 Shipment delays can affect customer satisfaction, operational efficiency, and business performance.
