@@ -3,6 +3,21 @@
 [👉 View Live Dashboard](https://yashika-logistics-dashboard.streamlit.app/)
 
 ---
+## 🔗 Project Links
+
+🌐 **Live Dashboard**  
+[View Live Streamlit Dashboard](https://yashika-logistics-dashboard.streamlit.app/)
+
+💻 **GitHub Repository**  
+[View Source Code & Project Files](https://github.com/yashikagupta2501/Nassau-Candy-Route-Efficiency-Analysis)
+
+📄 **Project Report**  
+[View Project Report](https://github.com/yashikagupta2501/Nassau-Candy-Route-Efficiency-Analysis/blob/main/reports/Nassau_Candy_Route_Analysis_Report.md)
+
+📊 **Project Presentation**  
+[View Project Presentation](https://github.com/yashikagupta2501/Nassau-Candy-Route-Efficiency-Analysis/blob/main/presentation/Nassau_Candy_Route_Efficiency_Analysis_Presentation.pptx)
+
+---
 # 🍫 Nassau Candy Route Efficiency Analysis
 
 ## 📌 Project Overview
@@ -12,15 +27,6 @@ Nassau Candy Route Efficiency Analysis is a data analytics project focused on ev
 The project analyzes shipment records across factories, routes, regions, states, products, and shipping modes to identify operational bottlenecks, delay patterns, and high-risk routes.
 
 The analysis combines Python-based data processing with statistical analysis and visualizations to generate actionable logistics insights.
-
----
-
-## 🔗 Project Links
-
-- 📁 [GitHub Repository](https://github.com/yashikagupta2501/Nassau-Candy-Route-Efficiency-Analysis)
-- 🌐 [Live Streamlit Dashboard](https://nassau-candy-route-efficiency-analysis.streamlit.app/)
-- 📄 [Project Report](https://github.com/yashikagupta2501/Nassau-Candy-Route-Efficiency-Analysis/blob/main/reports/Nassau_Candy_Route_Analysis_Report.md)
-- 📊 [Project Presentation](https://github.com/yashikagupta2501/Nassau-Candy-Route-Efficiency-Analysis/blob/main/presentation/Nassau_Candy_Route_Efficiency_Analysis_Presentation.pptx)
 
 ---
 
@@ -295,27 +301,3 @@ Nassau_Candy_Route_Efficiency_Analysis/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-<<<<<<< HEAD
-=======
-
----
-
-## 📊 Visualizations
-
-### Factory-wise Shipment Delay Rate
-![Factory-wise Shipment Delay Rate](outputs/factory_delay_rate.png)
-
-### Region-wise Shipment Delay Rate
-![Region-wise Shipment Delay Rate](outputs/region_delay_rate.png)
-
-### Ship Mode-wise Shipment Delay Rate
-![Ship Mode-wise Shipment Delay Rate](outputs/ship_mode_delay_rate.png)
-
-### Top 10 High-Risk Routes
-![Top 10 High-Risk Routes](outputs/top_high_risk_routes.png)
-
-### Top 10 Products by Delay Rate
-![Top 10 Products by Delay Rate](outputs/top_products_delay_rate.png)
-
----
->>>>>>> 9594d90 (Add visualization previews to README)
